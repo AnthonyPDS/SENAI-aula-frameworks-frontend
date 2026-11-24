@@ -1,7 +1,8 @@
 # Aulas 8 e 9 — Projeto React (Parte 1 e Parte 2)
 
 **Disciplina:** Frameworks Front-end  
-**Professor:** Prof. Me. Deivison S. Takatu
+**Professor:** Prof. Me. Deivison S. Takatu  
+**Repositório do Exercício:** [aula-8-e-9-Frameworks-Front-end](https://github.com/AnthonyPDS/aula-8-e-9-Frameworks-Front-end.git)
 
 ---
 

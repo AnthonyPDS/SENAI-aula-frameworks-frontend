@@ -1,7 +1,8 @@
 # Aula 7 — Frameworks CSS e Tailwind CSS
 
 **Disciplina:** Frameworks Front-end  
-**Professor:** Prof. Me. Deivison S. Takatu
+**Professor:** Prof. Me. Deivison S. Takatu  
+**Repositório do Exercício:** [aula-7-Frameworks-Front-end](https://github.com/AnthonyPDS/aula-7-Frameworks-Front-end.git)
 
 ---
 

@@ -13,6 +13,21 @@
 
 ---
 
+# Repositórios das Aulas e Exercícios
+
+| Aula | Tema | Repositório(s) do Exercício / Projeto | Material e Resumo |
+| :--- | :--- | :--- | :--- |
+| **Aula 1** | Apresentação da Disciplina e Contextualização | [SENAI-vanilla-atividade1](https://github.com/AnthonyPDS/SENAI-vanilla-atividade1.git) | [Pasta Aula 1](./Aula1/) |
+| **Aula 2** | Configuração do Ambiente de Desenvolvimento | [trabalho_next](https://github.com/AnthonyPDS/trabalho_next.git) | [Pasta Aula 2](./Aula2/) |
+| **Aula 3** | Projetos com Frameworks Front-end | • [trabalho_next](https://github.com/AnthonyPDS/trabalho_next.git)<br>• [trabalho_vue](https://github.com/AnthonyPDS/trabalho_vue.git)<br>• [trabalho_angular](https://github.com/AnthonyPDS/trabalho_angular.git) | [Pasta Aula 3](./Aula3/) |
+| **Aula 4** | Consumindo APIs no Front-end | [aula-4-Frameworks-Front-end](https://github.com/AnthonyPDS/aula-4-Frameworks-Front-end.git) | [Pasta Aula 4](./Aula4/) |
+| **Aula 5** | Criando APIs para o Front-end | [aula-5-Frameworks-Front-end](https://github.com/AnthonyPDS/aula-5-Frameworks-Front-end.git) | [Pasta Aula 5](./Aula%205/) |
+| **Aula 6** | Projetos Front-End (Gestão Ágil) | — | [Pasta Aula 6](./Aula%206/) |
+| **Aula 7** | Frameworks CSS e Tailwind CSS | [aula-7-Frameworks-Front-end](https://github.com/AnthonyPDS/aula-7-Frameworks-Front-end.git) | [Pasta Aula 7](./Aula%207/) |
+| **Aulas 8 e 9** | Projeto React (Partes 1 e 2) | [aula-8-e-9-Frameworks-Front-end](https://github.com/AnthonyPDS/aula-8-e-9-Frameworks-Front-end.git) | [Pasta Aula 8-9](./Aula%208-9/) |
+
+---
+
 # Descrição
 
 Ao final desta unidade curricular, o estudante será capaz de programar aplicações responsivas para a internet, tendo em vista a utilização em ambientes industriais de produção.

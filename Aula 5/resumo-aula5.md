@@ -1,7 +1,8 @@
 # Aula 5 — Criando APIs para o Front-end
 
 **Disciplina:** Frameworks Front-end  
-**Professor:** Prof. Me. Deivison S. Takatu
+**Professor:** Prof. Me. Deivison S. Takatu  
+**Repositório do Exercício:** [aula-5-Frameworks-Front-end](https://github.com/AnthonyPDS/aula-5-Frameworks-Front-end.git)
 
 ---
 
